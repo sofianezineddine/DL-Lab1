@@ -1,6 +1,6 @@
 # Deep Learning Lab 1 - DNN/MLP for Regression & Classification  
 **Université Abdelmalek Essaadi - Faculté des Sciences et Techniques de Tanger**  
-**Département Génie Informatique - Master MBD**  
+**Département Génie Informatique - Master SIT-BD**  
 **Deep Learning**  
 **Pr. ELAACKAK LOTFI**
 
@@ -48,5 +48,5 @@ pip install torch pandas numpy matplotlib seaborn scikit-learn
 
 All requirements of Lab 1 have been fully implemented and documented in the respective notebooks.
 
-**Submitted by:** [Your Full Name]  
-**Date:** November 28, 2025
+**Submitted by:** SOFIANE ZINE-EDDINE 
+**Date:** November 27, 2025
